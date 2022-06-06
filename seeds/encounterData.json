@@ -1,0 +1,32 @@
+[
+  {
+    "encounter_name": "Encounter 1",
+    "encounter_description": "Encounter 1 description",
+    "encounter_comment":"You got smashed enc 1",
+    "encounter_health":15,
+    "encounter_strength":15,
+    "encounter_endurance":15,
+    "encounter_intelligence": 20,
+    "encounter_game_points": -10
+  },
+  {
+    "encounter_name": "Encounter 2",
+    "encounter_description": "Enccounter 2 description",
+    "encounter_comment":"You got smashed enc 2",
+    "encounter_health":20,
+    "encounter_strength":20,
+    "encounter_endurance":20,
+    "encounter_intelligence": 20,
+    "encounter_game_points": -10
+  },
+  {
+    "encounter_name": "Encounter 3",
+    "encounter_description": "Encounter 3 description",
+    "encounter_comment":"You smashed em enc 3",
+    "encounter_health":30,
+    "encounter_strength":30,
+    "encounter_endurance":30,
+    "encounter_intelligence": 20,
+    "encounter_game_points": -10
+  }
+]

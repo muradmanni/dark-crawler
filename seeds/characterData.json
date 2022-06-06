@@ -1,0 +1,29 @@
+[
+    {
+      "character_name": "First Character",
+      "character_description": "Not Powerful",
+      "character_health": 10,
+      "character_strength" : 20,
+      "character_endurance" : 20,
+      "character_Intelligence" : 10,
+      "character_image" : "char1.png"
+    },
+    {
+      "character_name": "Second Character",
+      "character_description": "Very Powerful",
+      "character_health": 50,
+      "character_strength" : 50,
+      "character_endurance" : 40,
+      "character_Intelligence" : 40,
+      "character_image" : "char2.png"
+    },
+    {
+      "character_name": "Third Character",
+      "character_description": "Very Very Powerful",
+      "character_health": 50,
+      "character_strength" : 50,
+      "character_endurance" : 60,
+      "character_Intelligence" : 100,
+      "character_image" : "char3.png"
+    }
+  ]

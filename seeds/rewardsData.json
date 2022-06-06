@@ -1,0 +1,35 @@
+[
+  {
+      "reward_name": "Rew 1",
+      "reward_description": "Rew 1 description",
+      "reward_comment":"Good stuff",
+      "reward_type":"Weapon",
+      "reward_health_points":10,
+      "reward_strength_points":30,
+      "reward_endurance_points":2,
+      "reward_intelligence_points": 0,
+      "reward_game_points": 10
+  },
+  {
+      "reward_name": "Rew 2",
+      "reward_description": "Rew 2 description",
+      "reward_comment":"Good stuff",
+      "reward_type":"Weapon",
+      "reward_health_points":20,
+      "reward_strength_points":30,
+      "reward_endurance_points":2,
+      "reward_intelligence_points": 0,
+      "reward_game_points": 10
+  },
+  {
+      "reward_name": "Rew 3",
+      "reward_description": "Rew 3 description",
+      "reward_comment":"Good stuff",
+      "reward_type":"Weapon",
+      "reward_health_points":30,
+      "reward_strength_points":30,
+      "reward_endurance_points":2,
+      "reward_intelligence_points": 0,
+      "reward_game_points": 10
+  }
+]
